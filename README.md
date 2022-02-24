@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @0pt1muspr1me
 - 👀 I’m interested in bpython stuff
 - 🌱 I’m currently learning how to encrypt buffer paste
-- 💞️ I’m looking to collaborate on DJVL4REEXP76YXCTXOKK5NQGQM
+- 💞️ I’m looking to collaborate on softwares that pastes buffer
 - 📫 How to reach me 0pt1muspr1me@fakedomain.fakecom
 
 
